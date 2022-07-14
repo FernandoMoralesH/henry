@@ -2,6 +2,7 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = null;
+//Mi codigo:
 name = "Hola, estoy estudiando el HC"
 
 // Crea una variable numérica, puede ser cualquier número:
@@ -36,7 +37,9 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  
+  x=3;
+  y=5;
+  return suma
 }
 
 function resta(x, y) {
